@@ -8,4 +8,4 @@ Either start a live server and run index.html or visit https://sped.lol/atin for
 
 # NOTE
 
-If you like the repo please star :)
+If you like the repo please star :) 
